@@ -1,0 +1,6 @@
+[package]
+name = "fech8"
+version = "0.1.0"
+authors = ["cmills <cmills@fastmail.com>"]
+
+[dependencies]
